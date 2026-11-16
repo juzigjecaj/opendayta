@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/case-studies", "destination": "/case-studies.html" },
+    { "source": "/business-development", "destination": "/business-development.html" },
+    { "source": "/deal-origination", "destination": "/deal-origination.html" },
+    { "source": "/book-a-call", "destination": "/book-a-call.html" }
+  ]
+}
